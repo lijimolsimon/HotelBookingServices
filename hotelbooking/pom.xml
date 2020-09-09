@@ -23,7 +23,7 @@
         <spring.security.version>4.1.0.RELEASE</spring.security.version>
         <tiles.version>3.0.5</tiles.version>
         <jsr349.version>1.1.0.Final</jsr349.version>
-        <hibernate.validator.version>5.2.4.Final</hibernate.validator.version>
+        <hibernate.validator.version>5.3.6.Final</hibernate.validator.version>
         <hibernate-jpamodelgen.version>5.2.0.Final</hibernate-jpamodelgen.version>
         <joda.time.version>2.9.4</joda.time.version>
         <usertype.version>5.0.0.GA</usertype.version>
